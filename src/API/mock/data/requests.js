@@ -1,0 +1,38 @@
+export const requests = [
+  {
+    id: 1,
+    statusId: 1,
+    name: "Михаил",
+    document: "111",
+    creationDate: 1661517788,
+    transportNumber: "01",
+    jobPosition: "Водитель",
+  },
+  {
+    id: 2,
+    statusId: 1,
+    name: "Анастасия",
+    document: "222",
+    creationDate: 1661517788,
+    transportNumber: "02",
+    jobPosition: "Грузчик",
+  },
+  {
+    id: 3,
+    statusId: 0,
+    name: "Владимир",
+    document: "222",
+    creationDate: 1661517788,
+    transportNumber: "03",
+    jobPosition: "Управляющий",
+  },
+  {
+    id: 4,
+    statusId: 2,
+    name: "Евгений",
+    document: "444",
+    creationDate: 1661517788,
+    transportNumber: "03",
+    jobPosition: "Инженер",
+  },
+];
